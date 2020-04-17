@@ -138,3 +138,5 @@ C:\Users\Libo\Desktop\ToDoList\obj\Debug\netcoreapp3.0\Razor\Shared\NavMenu.razo
 C:\Users\Libo\Desktop\ToDoList\obj\Debug\netcoreapp3.0\Razor\_Imports.razor.g.cs
 C:\Users\Libo\Desktop\ToDoList\obj\Debug\netcoreapp3.0\RazorDeclaration\Pages\Todo.razor.g.cs
 C:\Users\Libo\Desktop\ToDoList\obj\Debug\netcoreapp3.0\Razor\Pages\Todo.razor.g.cs
+C:\Users\Libo\Desktop\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Libo\Desktop\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.genruntimeconfig.cache
